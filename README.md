@@ -1,5 +1,5 @@
 # 💫 About Me:
-If I am not working on websites for clients I am making projects for fun (check my public repositories). 
+If I am not working on websites for clients I am making projects for fun. 
 
 
 ## 🌐 Socials:
